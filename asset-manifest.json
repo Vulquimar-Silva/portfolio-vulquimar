@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.78c2175b.css",
+    "main.js": "./static/js/main.248e125c.js",
+    "static/media/playflix.png": "./static/media/playflix.d0dd672c97f6a4c36a28.png",
+    "static/media/spiderman.png": "./static/media/spiderman.63b0c6da9967bcdfadc7.png",
+    "static/media/PetFood.png": "./static/media/PetFood.ae251ed9fb72f0b09fca.png",
+    "static/media/vulksfy.png": "./static/media/vulksfy.527429913eb23dd990b2.png",
+    "static/media/aluroni.png": "./static/media/aluroni.9c72ee3dd0c5a9699538.png",
+    "static/media/nubank.png": "./static/media/nubank.bae039a4c62581d1b870.png",
+    "static/media/vulks-call.png": "./static/media/vulks-call.f3cb1403a21dfeb74a67.png",
+    "static/media/vulksAutomation.png": "./static/media/vulksAutomation.08c301351e9f76664532.png",
+    "static/media/banner.jpg": "./static/media/banner.04981a04e755d28d32d7.jpg",
+    "static/media/vulquimarfdsj.jpg": "./static/media/vulquimarfdsj.4343ec1861fef19fee6b.jpg",
+    "index.html": "./index.html",
+    "main.78c2175b.css.map": "./static/css/main.78c2175b.css.map",
+    "main.248e125c.js.map": "./static/js/main.248e125c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c2175b.css",
+    "static/js/main.248e125c.js"
+  ]
+}
