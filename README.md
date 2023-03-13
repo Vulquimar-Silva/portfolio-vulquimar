@@ -2,5 +2,5 @@
 
 Link: https://vulquimar-silva.github.io/portfolio-vulquimar/
 
-Styled-component | React.js | Typescript | Motion
+React.js | Typescript | Styled-component | Motion
 :--------- | :------: | -------: | -------:
